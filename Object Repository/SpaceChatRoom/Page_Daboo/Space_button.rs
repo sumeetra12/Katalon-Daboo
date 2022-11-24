@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Space_button</name>
+   <tag></tag>
+   <elementGuidId>af6bd465-7930-4a2e-ad9f-94017262b91b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected-space.hovered-space.space.flex.items-center.pointer.px-md.py-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cb78a494-a143-47f6-9c87-6dbd36badb99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-space hovered-space space flex items-center pointer px-md py-sm</value>
+      <webElementGuid>7314ea22-e859-4c29-913b-8781a6283f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GGenerallllllly</value>
+      <webElementGuid>f1924d0f-d3b6-40ce-8ebe-3d8026ad01b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;flex full-width relative&quot;]/div[@class=&quot;space-controls full-width relative border-r-1 max-w-md&quot;]/div[@class=&quot;spaces w-full mt-md border-b-1&quot;]/div[@class=&quot;mantine-1avyp1d&quot;]/div[1]/div[@class=&quot;mantine-ScrollArea-root mantine-jghxib&quot;]/div[@class=&quot;mantine-st9507 mantine-ScrollArea-viewport&quot;]/div[1]/div[@class=&quot;spaces-list pb-md&quot;]/div[@class=&quot;selected-space hovered-space space flex items-center pointer px-md py-sm&quot;]</value>
+      <webElementGuid>db21584a-8dbd-4290-95e3-762461928345</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>93fca084-1578-409a-9417-1dad80daa6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spaces'])[1]/following::div[8]</value>
+      <webElementGuid>a2b47976-7ff4-42bc-81aa-c45c9c9dddf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER'])[1]/following::div[24]</value>
+      <webElementGuid>bba89dca-5df9-438d-b967-ff73b1fb1b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>d6e38167-9146-487e-b137-eeff95acaebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GGenerallllllly' or . = 'GGenerallllllly')]</value>
+      <webElementGuid>6df6d959-af60-447f-b60c-adf52d83710c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

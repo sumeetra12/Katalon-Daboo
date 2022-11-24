@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Apply Changes_Button</name>
+   <tag></tag>
+   <elementGuidId>a9cb68e6-32b9-49dd-8787-9e719c28d82d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mantine-qo1k2.mantine-Button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/div[2]/div[2]/section/div/form/div[3]/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>040a48f9-e301-47eb-a9c8-c7d6df976633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-qo1k2 mantine-Button-label</value>
+      <webElementGuid>1f38faee-171d-469f-9ba3-62a9ec1e9192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply Changes</value>
+      <webElementGuid>09172eb5-4cf1-4b03-91a8-44a3f8373e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;h-[94vh] flex-1&quot;]/div[@class=&quot;mantine-Tabs-root h-[70%] mantine-944diq&quot;]/div[@class=&quot;mantine-1euen2d mantine-Tabs-body&quot;]/section[@class=&quot;py-xl pl-sm&quot;]/div[1]/form[1]/div[@class=&quot;mantine-Group-root mantine-ti75e8&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root mantine-Group-child bg-secondary mantine-vv65v0&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]/span[@class=&quot;mantine-qo1k2 mantine-Button-label&quot;]</value>
+      <webElementGuid>51cd0273-fede-4973-b7ce-dbbe2750c98e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div[2]/div[2]/section/div/form/div[3]/button/div/span</value>
+      <webElementGuid>6073b52d-915c-47b0-9f09-3df1f679cbfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Official Profile'])[1]/following::span[2]</value>
+      <webElementGuid>c6bd3f04-8c9e-489b-ba49-e79082bb3290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply Changes']/parent::*</value>
+      <webElementGuid>c004c924-8440-42f4-b9f2-5e7e9e6a17b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>1f9dc268-3a93-4865-b962-76257dc8c90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apply Changes' or . = 'Apply Changes')]</value>
+      <webElementGuid>39f6db8c-11a3-4d4c-a083-0799ba6b686e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

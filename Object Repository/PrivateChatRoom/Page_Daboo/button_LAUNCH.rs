@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LAUNCH</name>
+   <tag></tag>
+   <elementGuidId>7fcbc135-2cb8-4f63-9aed-4bc234d2086c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[2]/div/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Button-filled.mantine-Button-root.bg-secondary.mantine-eeogm9 > div.mantine-3xbgk5.mantine-Button-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7c19610-7ae8-4fdc-b29c-ec398b2fbcbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-3xbgk5 mantine-Button-inner</value>
+      <webElementGuid>fddeeab6-3f71-419c-840e-73310bd4b0f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LAUNCH</value>
+      <webElementGuid>937c3f3e-f900-4455-98a1-35e12ea1459b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;flex column organization-select-main&quot;]/div[@class=&quot;organizations-lists flex justify-center&quot;]/div[@class=&quot;org-container flex column ml-xl full-height&quot;]/div[@class=&quot;pending-list flex column mb-xl full-width&quot;]/div[@class=&quot;org-list mt-md full-width&quot;]/div[@class=&quot;flex column orgs&quot;]/div[@class=&quot;flex items-center my-lg full-width justify-between&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root bg-secondary mantine-eeogm9&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]</value>
+      <webElementGuid>d94aeb6e-971e-49f3-a3d0-7d8ac6bb581a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[2]/div/div/div/button/div</value>
+      <webElementGuid>e3f9eb72-8edd-4894-a793-fc30776c0560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing'])[1]/following::div[1]</value>
+      <webElementGuid>deeb0542-c738-4f3a-b6e4-32248e93ebb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button/div</value>
+      <webElementGuid>2d0d00dd-4bd8-412d-94d8-a4940e8a74e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LAUNCH' or . = 'LAUNCH')]</value>
+      <webElementGuid>ba0090ad-d986-4785-aeb7-0d68d4a14cc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

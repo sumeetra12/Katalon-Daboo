@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SignIn_Button</name>
+   <tag></tag>
+   <elementGuidId>3dc2aa19-9e58-48f6-9c77-0c7cbef8fee9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Button-filled.mantine-Button-root.mantine-Group-child.bg-secondary.mantine-vv65v0 > div.mantine-3xbgk5.mantine-Button-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/div[3]/form/div[3]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4fe50da-62f7-40cf-8499-f3c167a9fbff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-3xbgk5 mantine-Button-inner</value>
+      <webElementGuid>37339ce4-9453-4cf6-83e5-51d2baef48cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>96509eb7-2def-42f0-8306-1602cc2d2acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;flex h-100vh&quot;]/div[@class=&quot;form-area w-50vw flex-centered&quot;]/div[@class=&quot;mantine-Group-root flex column items-start mantine-6y1794&quot;]/div[@class=&quot;mantine-gnzaph mantine-Group-child&quot;]/div[@class=&quot;full-width mantine-hmw9qw&quot;]/form[1]/div[@class=&quot;mantine-Group-root mantine-11dcu34&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root mantine-Group-child bg-secondary mantine-vv65v0&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]</value>
+      <webElementGuid>df101360-6d6b-427a-9b3f-198944f6d744</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/div[3]/form/div[3]/button/div</value>
+      <webElementGuid>029c11b8-8cf7-4262-84cb-179120f4a1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[5]</value>
+      <webElementGuid>56383eae-de70-4af8-910c-7a0bd1a5a96f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[7]</value>
+      <webElementGuid>f472396a-4a89-4008-a323-0c7a6bd3f572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::div[1]</value>
+      <webElementGuid>d74aa23d-04c0-49c3-ad62-298376bbb1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/button/div</value>
+      <webElementGuid>d886e6c9-9aea-4316-85ae-f24e67392ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>417ccf3a-edb8-48df-bae9-e8acdedd04e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

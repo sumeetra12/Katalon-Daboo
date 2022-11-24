@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testyopmail.com_Option</name>
+   <tag></tag>
+   <elementGuidId>337a62a0-4cbb-4a69-b4f1-d6481ae677a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Menu-item.mantine-Menu-itemHovered.mantine-1dlvs06 > div.mantine-1ho4z9l.mantine-Menu-itemInner > div.mantine-105ajhz.mantine-Menu-itemBody > div.mantine-td3w39.mantine-Menu-itemLabel > div.flex.w-full.justify-between > div.flex.items-center > div.single-line-ellipsis-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-0p8eqp2xn']/div[2]/div[4]/button/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea80894a-73b3-4d2f-9840-52d152c41dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>single-line-ellipsis-md</value>
+      <webElementGuid>7b1350e2-e31b-4404-9c08-9879a6d10e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test@yopmail.com</value>
+      <webElementGuid>b7ed2bb5-d232-4796-bebe-a7499a8822a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-0p8eqp2xn&quot;)/div[@class=&quot;organizations-list&quot;]/div[4]/button[@class=&quot;mantine-Menu-item mantine-Menu-itemHovered mantine-1dlvs06&quot;]/div[@class=&quot;mantine-1ho4z9l mantine-Menu-itemInner&quot;]/div[@class=&quot;mantine-105ajhz mantine-Menu-itemBody&quot;]/div[@class=&quot;mantine-td3w39 mantine-Menu-itemLabel&quot;]/div[@class=&quot;flex w-full justify-between&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;single-line-ellipsis-md&quot;]</value>
+      <webElementGuid>7d1dee9e-4369-43aa-8d1d-0cce8875edf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-0p8eqp2xn']/div[2]/div[4]/button/div/div/div/div/div/div[2]</value>
+      <webElementGuid>10852f1f-8c12-46ed-b14f-a28a578effa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='t'])[1]/following::div[1]</value>
+      <webElementGuid>e260db8b-efbe-4791-9ac8-53852b604593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QATESTER'])[2]/following::div[9]</value>
+      <webElementGuid>05cdb05e-fdcd-4f3d-acc8-de94628d2098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[2]</value>
+      <webElementGuid>745327e4-69c6-48f0-b1a4-eaaf37d7ef70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite Users'])[1]/preceding::div[4]</value>
+      <webElementGuid>3c58eb3c-dbe6-4bcc-abcb-b0bcb6fb01b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test@yopmail.com']/parent::*</value>
+      <webElementGuid>5239bcab-1cbf-4cdc-9598-edb51a7e84d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/div/div/div/div/div/div[2]</value>
+      <webElementGuid>62f91dc3-11c4-4226-aab2-edf4c084a518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'test@yopmail.com' or . = 'test@yopmail.com')]</value>
+      <webElementGuid>87efd6f7-a144-4b04-95f8-ac3ef48a05c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

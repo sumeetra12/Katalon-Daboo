@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create a Poll</name>
+   <tag></tag>
+   <elementGuidId>4ed841df-16c8-4ae1-aaa2-f4423874498a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Button-filled.mantine-Button-root.bg-secondary.mantine-qgg6tb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>14b7e4d0-85ee-4f20-94ab-10acb7d33d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-Button-filled mantine-Button-root bg-secondary mantine-qgg6tb</value>
+      <webElementGuid>5cd10fdb-7d17-4f23-a8c2-3e84ee54ee7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cb212f86-3edf-4d6e-b5b2-c8a3ddbc6e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Create a Poll</value>
+      <webElementGuid>b6258952-13a0-401f-9bf5-c2147e22d0de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;flex full-width relative&quot;]/section[@class=&quot;flex column full-width px-md pb-sm&quot;]/div[@class=&quot;mantine-Group-root flex justify-between full-width fill-height mantine-6y1794&quot;]/div[@class=&quot;mantine-Tabs-root mantine-Group-child full-width flex column mantine-leqxg4&quot;]/div[@class=&quot;mantine-1opdmpb mantine-Tabs-body&quot;]/div[@class=&quot;flat-card-3 h-[76vh] bg-stone-50&quot;]/div[@class=&quot;w-full flex justify-between&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root bg-secondary mantine-qgg6tb&quot;]</value>
+      <webElementGuid>28a7c736-a94c-456d-a3e3-0e36f992a473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>d4203253-b879-440c-adda-9b9c83905e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/section/div/div/div[2]/div/div/div[2]/button[2]</value>
+      <webElementGuid>3b321bf0-329e-4d16-990d-96a136ee8254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List View'])[1]/following::button[1]</value>
+      <webElementGuid>b3a1d82b-ba86-4991-942c-0bf9c29bdada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::button[2]</value>
+      <webElementGuid>6b2f1639-bf55-41ae-be3b-960ac1d138e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::button[1]</value>
+      <webElementGuid>6baa8440-e998-4aca-8668-2764cbb7cf45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>d1a7cf7b-b732-450b-af90-fc0a61e0339e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '+ Create a Poll' or . = '+ Create a Poll')]</value>
+      <webElementGuid>83ce6b7e-8d02-49a7-9b14-9caeb99581ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

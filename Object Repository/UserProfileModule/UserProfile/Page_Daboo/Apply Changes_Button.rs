@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Apply Changes_Button</name>
+   <tag></tag>
+   <elementGuidId>4e08490a-a733-4ea7-99a0-0869e1d45442</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mantine-3xbgk5.mantine-Button-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/div[2]/div[2]/section/div/form/div[4]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82858a5c-3d00-4a80-8c48-d2ca26a6ed22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-3xbgk5 mantine-Button-inner</value>
+      <webElementGuid>257c887b-5e16-479e-9d1c-26af44c9b965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Apply Changes</value>
+      <webElementGuid>1711131b-4f91-4729-98f1-525486c09215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;h-[94vh] flex-1&quot;]/div[@class=&quot;mantine-Tabs-root h-[70%] mantine-944diq&quot;]/div[@class=&quot;mantine-1euen2d mantine-Tabs-body&quot;]/section[@class=&quot;py-xl pl-sm&quot;]/div[1]/form[1]/div[@class=&quot;mantine-Group-root mantine-ti75e8&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root mantine-Group-child bg-secondary mantine-vv65v0&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]</value>
+      <webElementGuid>f323e5eb-43e0-4252-9a01-776fec22ef3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div[2]/div[2]/section/div/form/div[4]/button/div</value>
+      <webElementGuid>ea8bc01f-7776-431b-bdf1-fb8ce6207c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[3]</value>
+      <webElementGuid>3821ad0e-a753-49ca-bd40-9e442fca46ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/div</value>
+      <webElementGuid>254d368a-94f2-402b-8137-b9a7f1064b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Apply Changes' or . = ' Apply Changes')]</value>
+      <webElementGuid>f32ab56f-93d1-40d0-bf53-b60b1f927e4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

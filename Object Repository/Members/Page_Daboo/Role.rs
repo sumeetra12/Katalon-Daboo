@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Role</name>
+   <tag></tag>
+   <elementGuidId>da5a7923-aeff-461a-aa24-bbba3806d0e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/section/div[2]/div[2]/div/table/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b58d6e62-68d9-4492-8478-faba5184f82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADMIN</value>
+      <webElementGuid>80408a98-2542-4578-8b9f-88ba0007b379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/section[@class=&quot;flex column full-width py-lg px-xl&quot;]/div[@class=&quot;mantine-Tabs-root mt-sm mantine-jjhffj&quot;]/div[@class=&quot;mantine-1opdmpb mantine-Tabs-body&quot;]/div[1]/table[@class=&quot;mantine-Table-root mantine-1002afz&quot;]/tbody[1]/tr[1]/td[4]</value>
+      <webElementGuid>6461b353-9e18-4094-9bf3-1b6fc1ac15a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/section/div[2]/div[2]/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>8a73b8f9-dda0-4a1f-9c4f-4c918655da4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::td[1]</value>
+      <webElementGuid>ccb37c88-3a57-46b9-af3a-5d0788b77efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test123@yopmail.com'])[1]/following::td[2]</value>
+      <webElementGuid>2f508a3c-2ca0-4f77-b8d0-b50600b82e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>71e6a595-777f-47cb-9a62-a55f6495fd76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ADMIN' or . = 'ADMIN')]</value>
+      <webElementGuid>12ec8308-63de-4770-809e-56115e93c73e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

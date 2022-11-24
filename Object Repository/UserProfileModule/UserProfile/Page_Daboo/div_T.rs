@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_T</name>
+   <tag></tag>
+   <elementGuidId>a2506c35-1610-4652-b0d6-d6cd16f7d7b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mantine-Avatar-root.mantine-1xprps0 > div.mantine-yiihbi.mantine-Avatar-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca37b9e6-6622-472a-9252-5ba1c92643b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-yiihbi mantine-Avatar-placeholder</value>
+      <webElementGuid>d890179a-244f-4ace-a1cc-9df32bb1bd0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>26439522-a9a1-4f7e-bac7-c033e5a3952d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>T</value>
+      <webElementGuid>7f69aaa2-d333-4daa-802e-9cb59b6c9f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-axsvjtqbt&quot;)/button[@class=&quot;mantine-Menu-item mantine-Menu-itemHovered mantine-1dlvs06&quot;]/div[@class=&quot;mantine-1ho4z9l mantine-Menu-itemInner&quot;]/div[@class=&quot;mantine-105ajhz mantine-Menu-itemBody&quot;]/div[@class=&quot;mantine-td3w39 mantine-Menu-itemLabel&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;mantine-Avatar-root mantine-1xprps0&quot;]/div[@class=&quot;mantine-yiihbi mantine-Avatar-placeholder&quot;]</value>
+      <webElementGuid>fd5c1bcf-ba6a-4454-b9fa-d250123ada06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-axsvjtqbt']/button/div/div/div/div/div/div</value>
+      <webElementGuid>13b3bc14-a564-4e06-a08a-3e26065e533d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Daboo Badges'])[1]/following::div[26]</value>
+      <webElementGuid>4f865d12-e450-461f-9a4e-29880466cfc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check out the latest feature - Daboo Badges'])[1]/following::div[27]</value>
+      <webElementGuid>e4b6861e-5049-4910-a4ae-898955cd5c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test123 System'])[2]/preceding::div[1]</value>
+      <webElementGuid>6c7b59fc-422f-47a7-9c8d-e363a73ee5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test123@yopmail.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>3661a97b-a77f-46a2-810f-89f84d4cc6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div/div/div/div</value>
+      <webElementGuid>f88f8be8-6cf7-4e3f-8d63-a3e664c2ff63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'img' and (text() = 'T' or . = 'T')]</value>
+      <webElementGuid>19447843-96bb-4870-bc79-d93ff416c2b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

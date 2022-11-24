@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Publish</name>
+   <tag></tag>
+   <elementGuidId>3946b967-6782-4833-a889-430012fa49ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-bmb1vslyl-body']/div[2]/div[4]/button[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Button-filled.mantine-Button-root.bg-secondary.mantine-1auzefc > div.mantine-3xbgk5.mantine-Button-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d59143c2-f458-4bc9-a3c4-019d9f01c6e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-3xbgk5 mantine-Button-inner</value>
+      <webElementGuid>eaa1a12c-c0ed-44e3-9c12-1d14f578a51b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Publish</value>
+      <webElementGuid>d8edbcfd-ffb8-4a82-b29a-c037a469f345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-bmb1vslyl-body&quot;)/div[2]/div[@class=&quot;flex&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root bg-secondary mantine-1auzefc&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]</value>
+      <webElementGuid>5b6aa3d3-2929-4fec-bc78-8d4ba0db03c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-bmb1vslyl-body']/div[2]/div[4]/button[2]/div</value>
+      <webElementGuid>f513b96b-6f4e-4eaa-8546-b7e5cbe106e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save as draft'])[1]/following::div[1]</value>
+      <webElementGuid>04cf302a-327f-4868-a699-175a3560f7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]/div</value>
+      <webElementGuid>a641b6b5-9b3f-4191-b5ca-5401e5368fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Publish' or . = 'Publish')]</value>
+      <webElementGuid>3ae78f4b-2882-43a4-ae92-c320bee53df9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>QATESTER_Option</name>
+   <tag></tag>
+   <elementGuidId>bf025634-f4ea-4b1d-a1ad-ff6a5f60db26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Menu-item.mantine-Menu-itemHovered.mantine-1dlvs06 > div.mantine-1ho4z9l.mantine-Menu-itemInner > div.mantine-105ajhz.mantine-Menu-itemBody</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-h7p6voxgl']/div[2]/div[3]/button/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aab470c3-80a3-4131-a462-18eee4dcf4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-105ajhz mantine-Menu-itemBody</value>
+      <webElementGuid>3339cbf4-bdfb-40c3-8842-b527040a11a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QQATESTER</value>
+      <webElementGuid>a9e4e7b4-f6fb-4cfc-902d-bab557265091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-h7p6voxgl&quot;)/div[@class=&quot;organizations-list&quot;]/div[3]/button[@class=&quot;mantine-Menu-item mantine-Menu-itemHovered mantine-1dlvs06&quot;]/div[@class=&quot;mantine-1ho4z9l mantine-Menu-itemInner&quot;]/div[@class=&quot;mantine-105ajhz mantine-Menu-itemBody&quot;]</value>
+      <webElementGuid>ba5b6bc7-0975-4259-8cb6-4208c5df4d88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-h7p6voxgl']/div[2]/div[3]/button/div/div</value>
+      <webElementGuid>bc556c15-ee95-4ab7-81cb-4c37d06a705a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA'])[2]/following::div[3]</value>
+      <webElementGuid>0fe11b46-ec90-4dd2-bfc9-280253cbc009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Q'])[1]/following::div[4]</value>
+      <webElementGuid>e1821cd4-5695-4421-ab0f-f161057642e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/div/div</value>
+      <webElementGuid>967cb8c7-9b76-4479-99c5-ef105751af93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'QQATESTER' or . = 'QQATESTER')]</value>
+      <webElementGuid>9a81b47c-022c-47e7-86e3-cb9b61759bee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

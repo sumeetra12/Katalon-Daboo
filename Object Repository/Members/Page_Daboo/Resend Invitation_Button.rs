@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Resend Invitation_Button</name>
+   <tag></tag>
+   <elementGuidId>10501013-37ee-418f-b1db-96f083a5690c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/section/div[2]/div[2]/div/table/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e2d037d7-321a-4f60-83f0-273713ccdaa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resend Invitation</value>
+      <webElementGuid>0075f0e7-28ba-44e2-9a71-5258bb0bbbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/section[@class=&quot;flex column full-width py-lg px-xl&quot;]/div[@class=&quot;mantine-Tabs-root mt-sm mantine-jjhffj&quot;]/div[@class=&quot;mantine-1opdmpb mantine-Tabs-body&quot;]/div[1]/table[@class=&quot;mantine-Table-root mantine-1002afz&quot;]/tbody[1]/tr[1]/td[4]</value>
+      <webElementGuid>706d6b35-cd11-405a-bc2c-ba2f88629a67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/section/div[2]/div[2]/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>b92d4d64-beff-406e-9de6-5a0e40952be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INACTIVE'])[1]/following::td[1]</value>
+      <webElementGuid>4f3f4fe8-c524-45a4-bb0a-072ce55d45ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test@yopmail.com'])[1]/following::td[2]</value>
+      <webElementGuid>16e3f346-5b97-481c-98c3-891b885b1ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>50dd772b-28e3-4774-aa4a-d964d9c8d7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Resend Invitation' or . = 'Resend Invitation')]</value>
+      <webElementGuid>67a98c04-6566-4a6f-9dac-ed2f4c57bac3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

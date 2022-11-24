@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LAUNCH</name>
+   <tag></tag>
+   <elementGuidId>a8ac0b07-7a48-49c9-a80e-bd2ee934745e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[2]/div/div/div[2]/button/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1568107d-6302-4989-8028-e77a0aaf1497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-Text-root mantine-e6ov6a</value>
+      <webElementGuid>d5eff02a-147c-4ee3-8f1f-b66bf961062d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LAUNCH</value>
+      <webElementGuid>8e0ae33d-3cb5-49ce-b345-0a1fc85247b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;flex column organization-select-main&quot;]/div[@class=&quot;organizations-lists flex justify-center&quot;]/div[@class=&quot;org-container flex column ml-xl full-height&quot;]/div[@class=&quot;pending-list flex column mb-xl full-width&quot;]/div[@class=&quot;org-list mt-md full-width&quot;]/div[@class=&quot;flex column orgs&quot;]/div[@class=&quot;flex items-center my-lg full-width justify-between&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root bg-secondary mantine-eeogm9&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]/span[@class=&quot;mantine-qo1k2 mantine-Button-label&quot;]/div[@class=&quot;mantine-Text-root mantine-e6ov6a&quot;]</value>
+      <webElementGuid>e89f0ec2-1fb3-4fc9-a484-26b5211b754f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[2]/div/div/div[2]/button/div/span/div</value>
+      <webElementGuid>ab04e58c-64b3-4852-a313-dda1afcac2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='njnfjsdfn'])[1]/following::div[2]</value>
+      <webElementGuid>cda60651-6c55-4c37-828e-ff9138351fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing123'])[1]/preceding::div[3]</value>
+      <webElementGuid>ebdb67d4-0cec-449d-bf08-93fab2c16ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div/span/div</value>
+      <webElementGuid>07bb05dd-fe08-4c1f-b722-5d866b10e840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LAUNCH' or . = 'LAUNCH')]</value>
+      <webElementGuid>7f299737-1845-465a-a868-81cc10bcacb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

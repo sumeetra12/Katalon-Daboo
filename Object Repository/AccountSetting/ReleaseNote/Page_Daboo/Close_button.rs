@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Close_button</name>
+   <tag></tag>
+   <elementGuidId>5c6d99f3-4249-4876-a383-69e1854e9009</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Notes'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>dbe2f249-384a-488f-b3fe-baf483d1919c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 15 15</value>
+      <webElementGuid>2da22de8-931f-4278-8e84-90cee906d64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>f9271d80-0b2b-4077-9a31-57bba00c5573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ec2d3808-b56e-4f19-8410-a7325a20f8c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>ad725e46-82d7-4ac2-b729-5723da55442f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>76ed97a1-e340-4fdc-a281-14b1115e7e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[1]/div[@class=&quot;mantine-Drawer-root mantine-1l2hpq0&quot;]/div[@class=&quot;mantine-Paper-root mantine-Drawer-drawer mantine-bx13fu&quot;]/div[@class=&quot;mantine-w29q45 mantine-Drawer-header&quot;]/button[@class=&quot;mantine-ActionIcon-hover mantine-ActionIcon-root mantine-Drawer-closeButton mantine-hszalo&quot;]/svg[1]</value>
+      <webElementGuid>e153abad-8871-417b-bdcb-5f3542b4f808</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Notes'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>50f17e2f-4858-4c6d-a44e-1c7cbe279de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have the following pending invitations.'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ca5b0787-d249-45cc-b1fc-9ae115fe2db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version 1.9.5 • (Current Version)'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>43744fc8-bde3-49d8-aef1-d389b87cf3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feature'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>9751b1ea-6170-49e7-a498-821aa22610f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

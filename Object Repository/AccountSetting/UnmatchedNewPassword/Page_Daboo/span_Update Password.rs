@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Update Password</name>
+   <tag></tag>
+   <elementGuidId>3d710b76-e70b-49e6-b85c-0320596e6502</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mantine-qo1k2.mantine-Button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/section/div/div/div[4]/form/div[4]/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c7a96f1-d664-4aa0-9172-54bd0291b7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-qo1k2 mantine-Button-label</value>
+      <webElementGuid>ff25143b-a804-46a5-bb29-c994b46d6053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Password</value>
+      <webElementGuid>9f6ff589-05bf-48bd-8ac5-ef99527f5bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/section[@class=&quot;flex column px-xl py-lg full-width&quot;]/div[@class=&quot;mantine-Group-root flex column items-start mantine-6y1794&quot;]/div[@class=&quot;mantine-gnzaph mantine-Group-child&quot;]/div[@class=&quot;full-width mantine-hmw9qw&quot;]/form[1]/div[@class=&quot;mantine-Group-root mantine-11dcu34&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root mantine-Group-child bg-secondary mantine-vv65v0&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]/span[@class=&quot;mantine-qo1k2 mantine-Button-label&quot;]</value>
+      <webElementGuid>8f6e6d59-4792-4bc7-ab6a-45c537fb22ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/section/div/div/div[4]/form/div[4]/button/div/span</value>
+      <webElementGuid>2d4fa22f-e115-4414-a948-b981712cd251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update Password']/parent::*</value>
+      <webElementGuid>5539accd-eee6-498a-8250-211ba843c994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>bb026ab4-8b89-47ac-ac6c-e0424f97b829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Update Password' or . = 'Update Password')]</value>
+      <webElementGuid>890cfb76-b5f5-4a8e-b95f-767cc2f9cfe5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

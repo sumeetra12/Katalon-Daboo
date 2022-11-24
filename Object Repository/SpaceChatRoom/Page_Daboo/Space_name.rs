@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Space_name</name>
+   <tag></tag>
+   <elementGuidId>aca3e0d0-3c62-4771-9d64-07299ab73254</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.full-width.justify-between</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df6704af-bf41-4fdf-8c5a-1d7f77847f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center full-width justify-between</value>
+      <webElementGuid>b05755de-d76d-4d7f-9684-974c5bdd6c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generallllllly</value>
+      <webElementGuid>07fb33a5-24f6-4a89-96e3-343d7a4462df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;flex full-width relative&quot;]/div[@class=&quot;space-controls full-width relative border-r-1 max-w-md&quot;]/div[@class=&quot;spaces w-full mt-md border-b-1&quot;]/div[@class=&quot;mantine-1avyp1d&quot;]/div[1]/div[@class=&quot;mantine-ScrollArea-root mantine-jghxib&quot;]/div[@class=&quot;mantine-st9507 mantine-ScrollArea-viewport&quot;]/div[1]/div[@class=&quot;spaces-list pb-md&quot;]/div[@class=&quot;hovered-space space flex items-center pointer px-md py-sm&quot;]/div[@class=&quot;space-name text-minimum ml-sm full-width&quot;]/div[@class=&quot;flex items-center full-width justify-between&quot;]</value>
+      <webElementGuid>e639b1ca-ade4-4986-8e6b-6af31948c376</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>266fb811-5dc2-4ff6-8627-d6bf23288b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G'])[1]/following::div[2]</value>
+      <webElementGuid>23b7fd2c-421a-4910-995c-099656f01eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spaces'])[1]/following::div[12]</value>
+      <webElementGuid>6ecbd7ec-fa50-49a6-bd16-0c7ef6ab1629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direct Messages'])[1]/preceding::div[3]</value>
+      <webElementGuid>fb48546d-2ba2-427f-b679-eb00a917add2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>dcccb691-c274-4e42-8df4-339239aba373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Generallllllly' or . = 'Generallllllly')]</value>
+      <webElementGuid>09ef763d-883f-49b7-83ef-288522e9172b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

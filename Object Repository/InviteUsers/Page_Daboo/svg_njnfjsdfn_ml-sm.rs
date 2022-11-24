@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_njnfjsdfn_ml-sm</name>
+   <tag></tag>
+   <elementGuidId>29262bc0-24fe-4c30-9f39-711a4ba7b7c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.ml-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='njnfjsdfn'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c3202fe9-b644-4c77-b6cd-41b29484207b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-sm</value>
+      <webElementGuid>f8b7690c-bf5e-4d87-9a42-2aa7d819309d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a7872bd2-68b0-4bed-88bf-c6f97e135c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>28ce9476-e6c6-4535-b0e0-895d9e20dd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>60f7f131-3177-423a-8825-e36bfe826944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>89fa167b-af53-47c3-a32a-f3146e8276bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>ae228cdf-241e-4bf3-a787-5f8f09a1230b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;border-b-1 flex full-width py-sm&quot;]/div[@class=&quot;nav-items flex full-width justify-between px-lg&quot;]/div[@class=&quot;logo-area flex&quot;]/div[@class=&quot;organization-details flex column justify-center ml-sm&quot;]/div[@class=&quot;mantine-Menu-root full-width mantine-193ey9s&quot;]/div[@class=&quot;flex items-center full-width pointer&quot;]/svg[@class=&quot;ml-sm&quot;]</value>
+      <webElementGuid>590e42e0-df7a-4bfe-ab0b-95576d81c824</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='njnfjsdfn'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>abbf90e1-c712-4d64-aaf5-5c4023564eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e87c74a9-8697-44e5-9f38-1d0ff0d29b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>4e23da2f-d967-48e7-ae99-063488c86403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spaces'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>5b59e2c2-1593-4370-b5d5-2e916e1d7c3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

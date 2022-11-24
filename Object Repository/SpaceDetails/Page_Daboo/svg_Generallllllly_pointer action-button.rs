@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Generallllllly_pointer action-button</name>
+   <tag></tag>
+   <elementGuidId>cb6ff653-84bf-49bb-bf2f-8e1174053633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.pointer.action-button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;flex full-width relative&quot;]/section[@class=&quot;flex column full-width px-md pb-sm&quot;]/header[1]/div[@class=&quot;mantine-Group-root flex justify-between full-width mantine-6y1794&quot;]/div[@class=&quot;mantine-gnzaph mantine-Group-child flex column py-sm&quot;]/div[@class=&quot;flex items-center&quot;]/svg[@class=&quot;pointer action-button&quot;][count(. | //svg[@class = 'pointer action-button']) = count(//svg[@class = 'pointer action-button'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Generallllllly'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e235e6bf-432e-4e49-997f-eb13c2ab3d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer action-button</value>
+      <webElementGuid>a6febfa7-4157-432f-a8e0-936ef2133226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>4baf3bdb-9225-4aba-ace3-299567558821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>0c32151d-d0a8-4fea-a981-1c6c8d05ab4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>b3a7c017-0b62-44f8-b04d-fbfef087d113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>10f8ff10-0589-40c2-b959-a2a3d27d1132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>8a475d26-5f28-4d70-bc98-89b707367bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;flex full-width relative&quot;]/section[@class=&quot;flex column full-width px-md pb-sm&quot;]/header[1]/div[@class=&quot;mantine-Group-root flex justify-between full-width mantine-6y1794&quot;]/div[@class=&quot;mantine-gnzaph mantine-Group-child flex column py-sm&quot;]/div[@class=&quot;flex items-center&quot;]/svg[@class=&quot;pointer action-button&quot;]</value>
+      <webElementGuid>b579a10a-c738-4344-b326-52edec91e620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generallllllly'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>99d51c18-9df9-418e-82b4-d5fd6fd7ee91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nice'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9fef169d-fba8-4138-9f8f-89f2169a23da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>288b5c03-75c1-4187-85ef-142c1f89f2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meet (Beta)'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>ffb44055-f249-4a96-9114-583b9d554163</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

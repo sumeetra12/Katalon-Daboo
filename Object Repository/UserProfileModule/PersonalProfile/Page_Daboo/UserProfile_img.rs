@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UserProfile_img</name>
+   <tag></tag>
+   <elementGuidId>5f2c5c96-d314-45fb-9902-5efe0b9dd0c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mantine-Image-root.mantine-iat7s > figure.mantine-11nhzn5.mantine-Image-figure > div.mantine-qqmv3w.mantine-Image-imageWrapper > img.mantine-utvkm8.mantine-Image-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-cizsmp7t0']/button/div/div/div/div/div/figure/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e59f4d3e-5efd-4a29-8868-b8ee3b2cb5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-utvkm8 mantine-Image-image</value>
+      <webElementGuid>eab14f58-a993-45a7-bf86-80833bd17032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api-dev.daboospace.com/api/files/002d74cd5b83b7c0b12a09f80b4a71cf_thumb?path=organizations/63734b26b4c0b8002b889730/images</value>
+      <webElementGuid>462285a2-ed30-4106-b18b-27ea672d45dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-cizsmp7t0&quot;)/button[@class=&quot;mantine-Menu-item mantine-Menu-itemHovered mantine-1dlvs06&quot;]/div[@class=&quot;mantine-1ho4z9l mantine-Menu-itemInner&quot;]/div[@class=&quot;mantine-105ajhz mantine-Menu-itemBody&quot;]/div[@class=&quot;mantine-td3w39 mantine-Menu-itemLabel&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;mantine-Image-root mantine-iat7s&quot;]/figure[@class=&quot;mantine-11nhzn5 mantine-Image-figure&quot;]/div[@class=&quot;mantine-qqmv3w mantine-Image-imageWrapper&quot;]/img[@class=&quot;mantine-utvkm8 mantine-Image-image&quot;]</value>
+      <webElementGuid>d6cccfcd-bf58-4e36-a57c-00b8e70c374d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-cizsmp7t0']/button/div/div/div/div/div/figure/div/img</value>
+      <webElementGuid>e6af6dc6-fba4-4578-9f95-9c8495296783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://api-dev.daboospace.com/api/files/002d74cd5b83b7c0b12a09f80b4a71cf_thumb?path=organizations/63734b26b4c0b8002b889730/images')])[2]</value>
+      <webElementGuid>46148034-4d9f-4b4c-a9a4-033019a948d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div/div/div/figure/div/img</value>
+      <webElementGuid>786b327b-1b41-4348-99c1-59a5a2013fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api-dev.daboospace.com/api/files/002d74cd5b83b7c0b12a09f80b4a71cf_thumb?path=organizations/63734b26b4c0b8002b889730/images']</value>
+      <webElementGuid>feb9f23b-0ced-453c-855b-c84c3e36e909</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

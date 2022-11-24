@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create</name>
+   <tag></tag>
+   <elementGuidId>2d5cfdc7-54a4-4a52-b35b-83be7e42946c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/section/div/div/div[2]/div/div/div/div[2]/form/div[5]/button[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Button-filled.mantine-Button-root.bg-secondary.mantine-1pudwmv > div.mantine-3xbgk5.mantine-Button-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edc3e2b2-34c7-4257-af9e-7d2749e3b860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-3xbgk5 mantine-Button-inner</value>
+      <webElementGuid>cad9ea5b-a0f2-41be-bcd3-65a286e35a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>9ff14627-a03f-4258-b928-0f8b4584e9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;flex full-width relative&quot;]/section[@class=&quot;flex column full-width px-md pb-sm&quot;]/div[@class=&quot;mantine-Group-root flex justify-between full-width fill-height mantine-6y1794&quot;]/div[@class=&quot;mantine-Tabs-root mantine-Group-child full-width flex column mantine-leqxg4&quot;]/div[@class=&quot;mantine-1opdmpb mantine-Tabs-body&quot;]/div[@class=&quot;flat-card-3 h-[76vh] bg-stone-50&quot;]/div[@class=&quot;flex w-full h-full&quot;]/div[@class=&quot;w-8/12&quot;]/div[@class=&quot;form mt-xl&quot;]/form[1]/div[@class=&quot;flex w-full justify-end&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root bg-secondary mantine-1pudwmv&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]</value>
+      <webElementGuid>603d9694-2cae-45b9-a9c3-6b3d4b1f5f79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/section/div/div/div[2]/div/div/div/div[2]/form/div[5]/button[2]/div</value>
+      <webElementGuid>6ccbb1a7-a317-4ebc-8576-b5928d6554ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[1]</value>
+      <webElementGuid>f9802bb0-8c2f-4826-9d57-be7fd3cc6b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Option'])[1]/following::div[3]</value>
+      <webElementGuid>7df547a4-5da9-44c0-aaa3-6513bf89f7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create polls quickly'])[1]/preceding::div[1]</value>
+      <webElementGuid>eacd146f-ff1d-4204-bacf-827ce3f2f08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button[2]/div</value>
+      <webElementGuid>8ecfee9b-29f2-4724-bd07-c694b3b863f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>5dc91547-a44d-4366-9707-de1d9f8e1581</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

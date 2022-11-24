@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>User_Profile</name>
+   <tag></tag>
+   <elementGuidId>b51db6e9-ae23-41e5-bcad-a71636a90472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mantine-td3w39.mantine-Menu-itemLabel > div.flex.items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-axsvjtqbt']/button/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ffecc5e-7ff9-4cdb-abdb-840e16669564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center</value>
+      <webElementGuid>c5ac08fc-942f-4e22-aec1-cfe3db285206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TTest123 Systemtest123@yopmail.com</value>
+      <webElementGuid>61513c80-5a2b-4330-9a88-1a113cb867a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-axsvjtqbt&quot;)/button[@class=&quot;mantine-Menu-item mantine-Menu-itemHovered mantine-1dlvs06&quot;]/div[@class=&quot;mantine-1ho4z9l mantine-Menu-itemInner&quot;]/div[@class=&quot;mantine-105ajhz mantine-Menu-itemBody&quot;]/div[@class=&quot;mantine-td3w39 mantine-Menu-itemLabel&quot;]/div[@class=&quot;flex items-center&quot;]</value>
+      <webElementGuid>d0c7031c-8b38-4dde-b9e8-8c7a2a4f7546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-axsvjtqbt']/button/div/div/div/div</value>
+      <webElementGuid>15fd6668-868b-4cb3-adfe-a53650c15ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Daboo Badges'])[1]/following::div[24]</value>
+      <webElementGuid>46ead89c-2fe3-4f1e-a0f5-ab61a4c33d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check out the latest feature - Daboo Badges'])[1]/following::div[25]</value>
+      <webElementGuid>77204ff3-7c0e-4dca-b4f7-2ad6a18bec68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div/div</value>
+      <webElementGuid>57ff103a-fae6-4ebd-9249-c947ffd5cab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TTest123 Systemtest123@yopmail.com' or . = 'TTest123 Systemtest123@yopmail.com')]</value>
+      <webElementGuid>56669791-6783-47f6-a35a-f81be6278f8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

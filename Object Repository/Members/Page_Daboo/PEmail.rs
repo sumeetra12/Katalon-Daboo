@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PEmail</name>
+   <tag></tag>
+   <elementGuidId>6c38fbef-7f7f-46f4-893d-6aec25fbbc8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/section/div[2]/div[2]/div/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3f305902-4a9e-4f6c-8f72-9ec3acd7b199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test@yopmail.com</value>
+      <webElementGuid>b3db8e34-0b6e-44f5-9a6a-44409e97f76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/section[@class=&quot;flex column full-width py-lg px-xl&quot;]/div[@class=&quot;mantine-Tabs-root mt-sm mantine-jjhffj&quot;]/div[@class=&quot;mantine-1opdmpb mantine-Tabs-body&quot;]/div[1]/table[@class=&quot;mantine-Table-root mantine-1002afz&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>012f45fa-d43b-4fa1-8de9-dadd1fbaa425</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/section/div[2]/div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>f834a92b-29b5-4b66-a61b-9cd321a6bb3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otp Tester'])[1]/following::td[1]</value>
+      <webElementGuid>fc817834-0695-4a00-85cf-df0add53bddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[2]</value>
+      <webElementGuid>2e2ca853-9470-4006-aa51-8d12ff38c1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INACTIVE'])[1]/preceding::td[1]</value>
+      <webElementGuid>1560836d-41da-438a-954d-88bb09d7032f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend Invitation'])[1]/preceding::td[2]</value>
+      <webElementGuid>f3b2ddb8-ba8b-4b79-9bdd-d43f19649299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test@yopmail.com']/parent::*</value>
+      <webElementGuid>dd42e128-0a09-4d21-a7bb-9af8ae3876f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>2593d3b4-0d08-49a4-9ffd-79210f76bc17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'test@yopmail.com' or . = 'test@yopmail.com')]</value>
+      <webElementGuid>29fd989b-8cec-4123-b342-1d07de920f44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

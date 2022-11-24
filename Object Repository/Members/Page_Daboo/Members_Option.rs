@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Members_Option</name>
+   <tag></tag>
+   <elementGuidId>c2bd32de-c155-4500-9a0d-0ff1632fdf71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Menu-item.mantine-Menu-itemHovered.mantine-1dlvs06 > div.mantine-1ho4z9l.mantine-Menu-itemInner > div.mantine-105ajhz.mantine-Menu-itemBody > div.mantine-td3w39.mantine-Menu-itemLabel > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-u2rgaasf1']/button[3]/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d0b5f9bc-ea4f-48f7-978e-25dae890f5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Members</value>
+      <webElementGuid>f9fd3f99-f603-4828-8761-f94cda9eec8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-u2rgaasf1&quot;)/button[@class=&quot;mantine-Menu-item mantine-Menu-itemHovered mantine-1dlvs06&quot;]/div[@class=&quot;mantine-1ho4z9l mantine-Menu-itemInner&quot;]/div[@class=&quot;mantine-105ajhz mantine-Menu-itemBody&quot;]/div[@class=&quot;mantine-td3w39 mantine-Menu-itemLabel&quot;]/span[1]</value>
+      <webElementGuid>9fe608ad-f9a6-43c7-9bef-6f561836fc3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-u2rgaasf1']/button[3]/div/div[2]/div/span</value>
+      <webElementGuid>d32f6dbb-aa90-4702-904e-180af7d710a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending Invitations'])[1]/following::span[1]</value>
+      <webElementGuid>601cfcb4-7f52-49ba-8ce0-398d1c282b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::span[2]</value>
+      <webElementGuid>20889291-0fb4-4dd8-82e0-6ff8df615717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Organization'])[1]/preceding::span[1]</value>
+      <webElementGuid>3f15b726-0694-4b7c-ab2d-0ae86aeb4185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Members']/parent::*</value>
+      <webElementGuid>3eca1730-5223-4cce-a82b-34aeaaa90538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/div/div[2]/div/span</value>
+      <webElementGuid>9ef233d7-840f-4590-8b1b-1ec0feb93ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Members' or . = 'Members')]</value>
+      <webElementGuid>a10e6fff-b0af-4dfb-b3da-65e3c7161d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

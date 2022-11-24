@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pending_Option</name>
+   <tag></tag>
+   <elementGuidId>44b2c189-d20d-4317-b0ce-ab52d9d95fb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Tabs-tabControl.mantine-Tabs-default.mantine-Group-child.mantine-52n0vt > div.mantine-rdtd06.mantine-Tabs-tabInner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/section/div[2]/div/div/button[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97b41456-dbc8-434a-9866-428db9b3bc18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-rdtd06 mantine-Tabs-tabInner</value>
+      <webElementGuid>8de13cc4-14ed-448c-8ff9-d9e071b19a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending</value>
+      <webElementGuid>18856a45-d0e2-46db-9024-37e2d259caff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/section[@class=&quot;flex column full-width py-lg px-xl&quot;]/div[@class=&quot;mantine-Tabs-root mt-sm mantine-jjhffj&quot;]/div[@class=&quot;mantine-Tabs-tabsListWrapper mantine-Tabs-default mantine-1u25t5n&quot;]/div[@class=&quot;mantine-Group-root __mantine-ref-tabsList mantine-Tabs-tabsList mantine-1tggmaq&quot;]/button[@class=&quot;mantine-Tabs-tabControl mantine-Tabs-default mantine-Group-child mantine-52n0vt&quot;]/div[@class=&quot;mantine-rdtd06 mantine-Tabs-tabInner&quot;]</value>
+      <webElementGuid>da5d4855-2f8f-4378-8db0-40f775ef5bca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/section/div[2]/div/div/button[2]/div</value>
+      <webElementGuid>9a734e23-0360-4730-89d5-fafb65092d63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Members'])[1]/following::div[1]</value>
+      <webElementGuid>3dd0b698-b147-4a80-83da-2f94ecfc21f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Here is a list of members in this organization.'])[1]/following::div[6]</value>
+      <webElementGuid>5bffea7c-7cf2-4b3d-9a07-a47920190db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[2]</value>
+      <webElementGuid>e1f88eba-13de-4f78-82fd-dd487af2bee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div</value>
+      <webElementGuid>6fb2e278-b02b-4a8b-b795-33a8d0d53448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pending' or . = 'Pending')]</value>
+      <webElementGuid>efe8785b-7416-4159-a3a7-906376d8e62b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

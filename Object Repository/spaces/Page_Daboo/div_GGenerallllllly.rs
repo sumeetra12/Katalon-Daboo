@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GGenerallllllly</name>
+   <tag></tag>
+   <elementGuidId>8075ee07-be46-483c-aaa9-f89411e6eec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f8354bb-f1c6-4503-8eff-f3c37abfedef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> hovered-space space flex items-center pointer px-md py-sm</value>
+      <webElementGuid>77fce573-c5c0-493c-b1b3-fa5bc5874bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GGenerallllllly</value>
+      <webElementGuid>2ff010b4-b9ed-4ed6-b872-6018d8ac3de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-desktop&quot;]/div[@class=&quot;flex full-width&quot;]/div[@class=&quot;flex full-width relative&quot;]/div[@class=&quot;space-controls full-width relative border-r-1 max-w-md&quot;]/div[@class=&quot;spaces w-full mt-md border-b-1&quot;]/div[@class=&quot;mantine-1avyp1d&quot;]/div[1]/div[@class=&quot;mantine-ScrollArea-root mantine-jghxib&quot;]/div[@class=&quot;mantine-st9507 mantine-ScrollArea-viewport&quot;]/div[1]/div[@class=&quot;spaces-list pb-md&quot;]/div[@class=&quot;hovered-space space flex items-center pointer px-md py-sm&quot;]</value>
+      <webElementGuid>a968adc5-19cd-4c59-8f9f-594a725095fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>69a7c04b-e630-4436-b29f-7e4bc04c46d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spaces'])[1]/following::div[8]</value>
+      <webElementGuid>fd73373c-7bd1-4a9d-9837-322dbe0c086c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER'])[1]/following::div[24]</value>
+      <webElementGuid>3753592c-34a3-45d5-bc14-18191fa8e4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>0a242a00-6cf7-4120-b7eb-ad667eaa6fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GGenerallllllly' or . = 'GGenerallllllly')]</value>
+      <webElementGuid>08901e0e-a1da-47e1-a6b3-65f9edd9b1b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
